@@ -1,4 +1,4 @@
-[Russian] White Paper - Манифест проекта Эфириум. [Ссылка на англоязычный оригинал.](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper)
+[Russian] White Paper --- Манифест проекта Эфириум. [Ссылка на англоязычный оригинал.](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper)
 
 ### Обозначения и ответы на вопрос "куда я попал"
 
