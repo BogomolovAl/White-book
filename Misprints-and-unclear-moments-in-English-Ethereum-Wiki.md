@@ -34,6 +34,8 @@ What? o_O
 
 13) In the very beginning of [Dagger](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger): "Currently, there are three major categories.." "However, both are imperfect.."
 
+14) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the end of the paragraph the link that is not rendered nicely is broken ;) error 404.
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
@@ -47,6 +49,6 @@ And everywhere else in this text you write "Let Alice send 1000 ether to Bob.." 
 
 2) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the 4th item you need to close the bracket.
 
-3) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the end of the paragraph the link is not rendered nicely — you see.
+
 
 ## List of unclear moments
