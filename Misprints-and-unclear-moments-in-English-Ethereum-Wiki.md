@@ -34,7 +34,7 @@ What? o_O
 
 13) In the very beginning of [Dagger](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger): "Currently, there are three major categories.." "However, both are imperfect.."
 
-14) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the end of the paragraph the link that is not rendered nicely is broken ;) error 404.
+14) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the end of the paragraph the link that is not rendered nicely is, moreover, broken ;) error 404.
 
 ## Minor issues
 
