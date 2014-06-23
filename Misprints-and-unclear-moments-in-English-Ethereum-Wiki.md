@@ -32,6 +32,8 @@ What? o_O
 
 12) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Serpent-programming-language-operations#functions) you need to fix the third item.
 
+13) In the very beginning of [Dagger](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger): "Currently, there are three major categories.." "However, both are imperfect.."
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
