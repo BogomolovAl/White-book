@@ -1,4 +1,4 @@
-[Russian] Serpent — язык программирования контрактов. [Ссылка на англоязычный оригинал.](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Serpent-programming-language-operations)
+[Russian] Serpent — высокоуровневый язык для написания контрактов. [Ссылка на англоязычный оригинал.](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Serpent-programming-language-operations)
 
 ## Арифметика
 
