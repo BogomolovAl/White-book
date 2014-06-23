@@ -45,4 +45,6 @@ What? o_O
 
 And everywhere else in this text you write "Let Alice send 1000 ether to Bob.." You don't mean 1000*(10<sup>18</sup>), do you? So, I think, "1" must be ether, not wei. Anyway, 
 
+2) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the 4th item you need to close the bracket.
+
 ## List of unclear moments
