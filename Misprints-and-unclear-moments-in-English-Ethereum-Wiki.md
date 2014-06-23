@@ -28,6 +28,8 @@ What? o_O
 
 10) [Table of contents](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#table-of-contents) should begin not with "History", but with "Introduction to Bitcoin and Existing Concepts"
 
+11) In [Serpent](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Serpent-programming-language-operations#arithmetic) in item "Arithmetic wraps.." there's the arithmetic mistake: `x = 3 ^ (2 ^ 255)` sets x to 1, but NOT `x = 3 ^ (2 ^ 254)`. [Euler totient function](http://en.wikipedia.org/wiki/Euler%27s_totient_function) \phi (2^256) = 2^255, so if 3 in some power is equal to 1 modulo 2<sup>256</sup>, then this is 3<sup>\phi(2<sup>256</sup>)</sup> = 3<sup>2<sup>255</sup></sup>.
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
