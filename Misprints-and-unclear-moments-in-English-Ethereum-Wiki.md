@@ -49,6 +49,6 @@ And everywhere else in this text you write "Let Alice send 1000 ether to Bob.." 
 
 2) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the 4th item you need to close the bracket.
 
-
+3) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#birthday-attack) is misprint in the last paragraph: "that is memory-hard to computer but memory-easy to verify"
 
 ## List of unclear moments
