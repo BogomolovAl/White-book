@@ -53,4 +53,5 @@ And everywhere else in this text you write "Let Alice send 1000 ether to Bob.." 
 
 4) I couldn't find what does the note 2 (the link in the very end of White Paper) correspond to. Probably I'm blind retard, but I tried and couldn't.
 
+5) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#a-next-generation-smart-contract-and-decentralized-application-platform): "smart property" broken/absent link.
 ## List of unclear moments
