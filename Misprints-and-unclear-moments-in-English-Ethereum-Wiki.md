@@ -36,6 +36,8 @@ What? o_O
 
 14) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#scrypt) in the end of the paragraph the link that is not rendered nicely is, moreover, broken ;) error 404.
 
+15) This is really important issue. Look at the last paragraph of [Ethereum State Transition Function](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#ethereum-state-transition-function). As far as I understand, the thought «If there was no contract at the receiving end of the transaction, you can just ignore the "Run the code" step» is intended. Then you say "the total transaction fee would simply be equal to the provided `GASPRICE` multiplied by the length of the transaction in bytes" (only step 3, no step 5, as far as I understand). But look at the step 3! There you multiply your transaction length by the byte-fee but not by the `GASPRICE`! They are completely different numbers.
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
