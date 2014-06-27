@@ -56,3 +56,7 @@ Everything should be transparent.
 * It is useful to formulate the results of your work even if no one is going to control you. It clears the mind.
 
 Anyway, if you reject this idea, I'll create some web page and will write there what I've done and what I'm working on.
+
+5. To oblige documentation translators to explain every intention in their words or issue back that they don't understand what does "these and these thoughts" stand for. They *must* understand every single idea. It would also improve English documentation, would make it more user-friendly.
+
+6. Short housewifes-friendly (OK, IT-related busy people-friendly) version of Ethereum White Paper as poster/presentation.
