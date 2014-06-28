@@ -63,3 +63,5 @@ And everywhere else in this text you write "Let Alice send 1000 ether to Bob.." 
 ## List of unclear moments
 
 6) [Here in the sixth point](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#blockchain-and-mining): "For all in in..", of course "For all `i` in"
+
+7) on [ethereum.org](http://ethereum.org) (sic!) after you press "why": "For example, when when you deposit money.."
