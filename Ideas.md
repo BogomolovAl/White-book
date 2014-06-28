@@ -60,3 +60,5 @@ Anyway, if you reject this idea, I'll create some web page and will write there 
 5. To oblige documentation translators to explain every intention in their words or issue back that they don't understand what does "these and these thoughts" stand for. They *must* understand every single idea. It would also improve English documentation, would make it more user-friendly.
 
 6. Short housewifes-friendly (OK, IT-related busy people-friendly) version of Ethereum White Paper as poster/presentation.
+
+7) We should do something against cybersquatters - in Twister (P2P analogue of Twitter) accounts @microsoft, @google, @dropbox, @linux, @gnu, @apple were registered immediately.
