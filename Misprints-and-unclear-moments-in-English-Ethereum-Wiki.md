@@ -42,6 +42,8 @@ What? o_O
 
 Really all? All accounts in the world?
 
+17) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#blockchain-and-mining) you use the variable `GASLIMIT`, but there is no such variable; you must mean `STARTGAS`. (It's better to rename `STARTGAS` => `GASLIMIT` actually.)
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
