@@ -1,6 +1,6 @@
 English documentation must be as clear and explicit as possible.
 
-Here is the list of things that remained unclear to me even after ... reading. I don't think I'm a complete idiot, so these moments could probably be unclear to other respectable readers. This list is not comprehensive; it provides by far not all the insufficiently-explained moments.
+Here is the list of things that remained unclear to me even after careful reading. I don't think I'm a complete idiot, so these moments could probably be unclear to other respectable readers. This list is not comprehensive; it provides by far not all the insufficiently-explained moments.
 
 ## List of misprints in Ethereum White Paper
 
