@@ -1,12 +1,10 @@
 My name is Alex Garkusha. This text is designed for Ethereum developers. You can blame me or love me, [using my email](mailto:alex.garkusha.92@gmail.com) or adding me in Skype (snordenstorm).
 
-0) Vitalik, sometimes I will come to you with the ideas (they come to my head, I can't help it); of course you decide what to implement and what to reject (and that's right, somebody really has to make decisions, without this anything gets stuck), but I kindly ask you to think about each. 
-
 ### PR-ideas
 
-#### First header
+#### Going outside the IT-geeks community
 
-1) Ethereum dev team is probably the most skilled team the crypto world has ever seen. Vitalik and others visited thematic conferences, experienced standing ovations there etc. I don't think we need any PR in cryptocommunity - maybe in IT-community, but not in this subset. But that's not what I want to focus on here; there's still some thing our developers didn't think about a lot (am I mistaken?). I'm talking about PR **outside** of IT-geek community.
+Ethereum dev team is probably the most skilled team the crypto world has ever seen. Vitalik and others visited thematic conferences, experienced standing ovations there etc. I don't think we need any PR in cryptocommunity - maybe in IT-community, but not in this subset. But that's not what I want to focus on here; there's still some thing our developers didn't think about a lot (am I mistaken?). I'm talking about PR **outside** of IT-geek community.
 
 The game is not only about coding. Community is even more important for scalability.
 
@@ -23,7 +21,9 @@ Something about global PR
 
  There are a lot of worth thinking about regions - Argentina&Brazil, Japan, South Korea, North Europe, Dubai.. 
 
-3) We should make a bunch of posters. We should make something understandable for housewifes (and funny, else it wouldn't catch anybody's eye)! Explain things easy that way. Short housewifes-friendly (OK, IT-related busy people-friendly) version of Ethereum White Paper as poster/presentation.
+#### PR amongst IT-related busy people
+
+We should make a bunch of posters. We should make it easy-going and funny, else it wouldn't catch anybody's eye! Explain things easy that way. Short (IT-related busy people)-friendly version of Ethereum White Paper as poster/presentation.
 
 #### Viral marketing
 
@@ -44,9 +44,7 @@ It should be video ("The xx - Decentralized").
 
 4) [ONLY AFTER THE LAUNCH] Faucets but not as it is now in cryptoworld. Instead we should chaotically donate remarkable 'not very IT' bloggers, donate in ETH and with significant sums equivalent to ~0.5 BTC.  Probably donate to remarkable (art-)bloggers in ETH. We should donate something we like, and it should cover as much spheres as possible.
 
-5) [NOT AT THE FIRST TIME] Table . Ethereum dev team has almost 60 people. Ethereum organization will pay some . 
-
-I see three reasons for that.
+5) I see three reasons for that.
 
 * In order to prevent the situation when two of us do the same job. You see sometimes I get interested in subjects you didn't ask me to think about. I guess I'm not the only one with this attribute.  We should know better on what who's working.
 
@@ -60,8 +58,6 @@ Everything should be transparent.
 
 * It is useful to formulate the results of your work even if no one is going to control you. It clears the mind.
 
-Anyway, if you reject this idea, I'll create some web page and will write there what I've done and what I'm working on.
-
 6) To oblige documentation translators to explain every intention in their words or issue back that they don't understand what does "these and these thoughts" stand for. They *must* understand every single idea. It would also improve English documentation, would make it more user-friendly.
 
-8) We should do something against cybersquatters - in Twister (P2P analogue of Twitter) accounts @microsoft, @google, @dropbox, @linux, @gnu, @apple were registered immediately.
+7) We should do something against cybersquatters - in Twister (P2P analogue of Twitter) accounts @microsoft, @google, @dropbox, @linux, @gnu, @apple were registered immediately.
