@@ -44,6 +44,12 @@ Really all? All accounts in the world?
 
 17) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#blockchain-and-mining) you use the variable `GASLIMIT`, but there is no such variable; you must mean `STARTGAS`. (It's better to rename `STARTGAS` => `GASLIMIT` actually.)
 
+18) [Here in the sixth point](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#blockchain-and-mining): "For all in in..", of course "For all `i` in"
+
+19) on [ethereum.org](http://ethereum.org) (sic!) after you press "why": "For example, when when you deposit money.."
+
+20) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#financial-derivatives-and-stable-value-currencies) in the last paragraph: "Unike issuers.."
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
@@ -59,11 +65,5 @@ And everywhere else in this text you write "Let Alice send 1000 ether to Bob.." 
 
 3) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Dagger#birthday-attack) is misprint in the last paragraph: "that is memory-hard to computer but memory-easy to verify"
 
-5) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#a-next-generation-smart-contract-and-decentralized-application-platform): "smart property" broken/absent link.
+4) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#a-next-generation-smart-contract-and-decentralized-application-platform): "smart property" broken/absent link.
 ## List of unclear moments
-
-6) [Here in the sixth point](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#blockchain-and-mining): "For all in in..", of course "For all `i` in"
-
-7) on [ethereum.org](http://ethereum.org) (sic!) after you press "why": "For example, when when you deposit money.."
-
-8) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#financial-derivatives-and-stable-value-currencies) in the last paragraph: "Unike issuers.."
