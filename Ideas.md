@@ -21,6 +21,8 @@ Something about global PR
 
  There are a lot of worth thinking about regions - Argentina&Brazil, Japan, South Korea, North Europe, Dubai.. 
 
+Girls saying on camera "I love Ethereum".
+
 #### PR amongst IT-related busy people
 
 We should make a bunch of posters. We should make it easy-going and funny, else it wouldn't catch anybody's eye! Explain things easy that way. Short (IT-related busy people)-friendly version of Ethereum White Paper as poster/presentation.
