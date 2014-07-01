@@ -63,3 +63,5 @@ Everything should be transparent.
 6) To oblige documentation translators to explain every intention in their words or issue back that they don't understand what does "these and these thoughts" stand for. They *must* understand every single idea. It would also improve English documentation, would make it more user-friendly.
 
 7) We should do something against cybersquatters - in Twister (P2P analogue of Twitter) accounts @microsoft, @google, @dropbox, @linux, @gnu, @apple were registered immediately.
+
+8) By the way, what about the site ([ethereum.org](https://ethereum.org/)) translation?
