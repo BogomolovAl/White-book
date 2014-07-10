@@ -2,6 +2,8 @@
 
 [Манифест Эфириум](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper)
 
+[Введение в Эфириум для разработчиков](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Ethereum-Development-Tutorial)
+
 [Рекурсивный линейный префикс](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-RLP), используемый для кодирования информации в Эфириум.
 
 [Serpent](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Serpent-programming-language-operations), высокоуровневый язык для написания контрактов.
