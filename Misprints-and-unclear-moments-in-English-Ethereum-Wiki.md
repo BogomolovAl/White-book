@@ -50,6 +50,12 @@ Really all? All accounts in the world?
 
 20) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#financial-derivatives-and-stable-value-currencies) in the last paragraph: "Unike issuers.."
 
+21) In [this](https://github.com/ethereum/wiki/wiki/Glossary#blockchains) subsection the very last word: maintenance
+
+22) [Here](https://github.com/ethereum/wiki/wiki/Glossary#non-blockchain): "prorgamming languages"
+
+23) [Here](https://github.com/ethereum/wiki/wiki/Glossary#surrounding-concepts-applications-and-governance) : "Decentralized autonomous organization: decentralized organization where" instead of "Decentralized autonomous organization: decentralized organizations where"
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
