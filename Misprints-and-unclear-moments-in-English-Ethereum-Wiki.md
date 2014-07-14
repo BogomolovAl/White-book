@@ -56,6 +56,8 @@ Really all? All accounts in the world?
 
 23) [Here](https://github.com/ethereum/wiki/wiki/Glossary#surrounding-concepts-applications-and-governance) : "Decentralized autonomous organization: decentralized organization where" instead of "Decentralized autonomous organization: decentralized organizations where"
 
+24) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#scripting), subsubsection "Value-blindness": I do not understand piece "(eg. one UTXO of 2<sup>k</sup> for every k up to 30) and having O pick which UTXO to send to A and which to B" completely. I understand everything else in this subsubsection, but not this.
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
