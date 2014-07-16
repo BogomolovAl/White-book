@@ -60,6 +60,8 @@ Really all? All accounts in the world?
 
 25) The last sentence of [this subsection](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#decentralized-file-storage): "If a contract is still paying out money, that provides a cryptographic proof that someone out there is still storing the piece of file." instead of "If a contract is still paying out money, that provides a cryptographic proof that someone out there is still storing the file."
 
+26) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#decentralized-autonomous-organizations): distinquished => distinguished 
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
