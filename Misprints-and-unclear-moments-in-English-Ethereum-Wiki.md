@@ -62,6 +62,9 @@ Really all? All accounts in the world?
 
 26) [Here](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#decentralized-autonomous-organizations): distinquished => distinguished 
 
+27) In [GHOST](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#modified-ghost-implementation): "Greedy Heaviest Observed Subtree", not Heavist
+
+
 ## Minor issues
 
 1) [Currency and Issuance](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#currency-and-issuance): "the denominations will be pre-labelled":
