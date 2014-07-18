@@ -13,3 +13,5 @@
 [Block Protocol 2.0](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Block-Protocol-2.0)
 
 [Глоссарий](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary)
+
+[Открытые проблемы криптоэкономики](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Open-Problems)
