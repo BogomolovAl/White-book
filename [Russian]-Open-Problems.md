@@ -1,6 +1,4 @@
-English version [here](https://github.com/ethereum/wiki/wiki/Problems), but this is not the russian translation — this is the brief outline of the problems to be solved.
-
-Англоязычный оригинал [здесь](https://github.com/ethereum/wiki/wiki/Problems), но ниже представлен не русскоязычный перевод, а краткий конспект задач, которые стоят перед всеми нами.
+Англоязычный оригинал [здесь](https://github.com/ethereum/wiki/wiki/Problems).
 
 ### Введение
 
