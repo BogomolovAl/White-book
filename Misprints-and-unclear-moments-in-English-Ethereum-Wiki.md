@@ -18,8 +18,6 @@ What? o_O
 
 5) [Alternative Blockchain Application](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#alternative-blockchain-applications): broken link to namecoin.org (broken SSL-certificate); the correct address now is namecoin.info
 
-6) [Scripting](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#scripting): "and returns 1 if the verification is successful and 0 otherwise". I thought "return 1" means "return error"? 
-
 7) [Scripting](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#scripting): "elliptic curve signature algorithm would likely require 256 repeated multiplication rounds". Multiplication, not addition?
 
 8) in https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC Serpent is high-level language, but in White Paper it is all way low-level.
