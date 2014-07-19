@@ -18,6 +18,8 @@ What? o_O
 
 5) [Alternative Blockchain Application](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#alternative-blockchain-applications): broken link to namecoin.org (broken SSL-certificate); the correct address now is namecoin.info
 
+6) Why does the attacker always have to send the money to himself when he starts mining a fork? Why couldn't he just mine the block without any transactions related to him? Just "forgetting" the transaction done in exchange for a digital good.
+
 7) [Scripting](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#scripting): "elliptic curve signature algorithm would likely require 256 repeated multiplication rounds". Multiplication, not addition?
 
 8) in https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC Serpent is high-level language, but in White Paper it is all way low-level.
