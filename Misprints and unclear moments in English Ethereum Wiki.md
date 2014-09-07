@@ -66,7 +66,7 @@ Really all? All accounts in the world?
 
 28) In [GHOST](https://github.com/ethereum/wiki/wiki/Glossary#ethereum-blockchain): "and mitigates the problem with fast blockchains that large miners have an advantage because they.." instead of "and mitigates a problem with fast blockchains that large miners have an advantage because they.."
 
-29) In [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper#identity-and-reputation-systems): "all it is is a database inside the Ethereum network that can be added to" - it's sloppy, it should be rewritten
+29) In [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper#identity-and-reputation-systems): "all it is is a database inside the Ethereum network that can be added to" - it's sloppy, it should be rewritten something like "that a name inside the Ethereum network can be created but not modified or removed from".
 
 
 ## Minor issues
