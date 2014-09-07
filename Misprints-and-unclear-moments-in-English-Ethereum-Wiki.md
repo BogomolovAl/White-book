@@ -64,7 +64,7 @@ Really all? All accounts in the world?
 
 27) In [GHOST](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#modified-ghost-implementation): "Greedy Heaviest Observed Subtree", not Heavist
 
-28) In [GHOST](https://github.com/ethereum/wiki/wiki/Glossary#ethereum-blockchain): "and mitigates the problem with fast blockchains that large miners have an advantage because they" instead of "and mitigates a problem with fast blockchains that large miners have an advantage because they"
+28) In [GHOST](https://github.com/ethereum/wiki/wiki/Glossary#ethereum-blockchain): "and mitigates the problem with fast blockchains that large miners have an advantage because they.." instead of "and mitigates a problem with fast blockchains that large miners have an advantage because they.."
 
 
 ## Minor issues
