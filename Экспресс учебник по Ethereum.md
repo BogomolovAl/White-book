@@ -5,9 +5,9 @@
 * [official youtube](http://www.youtube.com/user/ethereumproject)
 * bitcointalk
 
-В качестве нулевого этапа погружения в бездну Эфириума рекомендовал бы вдохновившие меня когда-то популярные статьи: [первая](http://bitnovosti.com/2014/03/05/dacs/), [вторая](http://bitnovosti.com/2014/03/01/etherium-next-generation-crypto/).
+В качестве нулевого этапа погружения в бездну Эфириума рекомендовал бы вдохновившие меня когда-то популярные статьи: [первая](http://bitnovosti.com/2014/03/05/dacs/), [вторая](http://bitnovosti.com/2014/03/01/etherium-next-generation-crypto/). 
 
-Первым же этапом погружения в бездну должно стать чтение White Paper (Манифеста).
+Первым же этапом погружения в бездну должно стать чтение White Paper (Манифеста). В рамках второго этапа погружения в бездну пробежимся по всем понятиям, возникающим в Эфириум, и кратко опишем, что они примерно делают и зачем нужны.
 
 ### Структура [White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper)
 
