@@ -7,7 +7,7 @@
 
 В качестве нулевого этапа погружения в бездну Эфириума рекомендовал бы вдохновившие меня когда-то популярные статьи: [первая](http://bitnovosti.com/2014/03/05/dacs/), [вторая](http://bitnovosti.com/2014/03/01/etherium-next-generation-crypto/). 
 
-Первым же этапом погружения в бездну должно стать чтение White Paper (Манифеста). (Ниже я привожу выжимку из него — краткое содержание.) В рамках [второго этапа](https://github.com/snordenstorm/wiki/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-Ethereum#%D0%A7%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B5-%D1%85%D0%B2%D0%B0%D1%82%D0%B0%D0%B5%D1%82-%D0%B2-%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B8) пробежимся по всем понятиям, возникающим в Эфириум, и кратко опишем, что они примерно делают и зачем нужны.
+Первым же этапом погружения в бездну должно стать чтение [White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper) (Манифеста). (Ниже я привожу выжимку из него — краткое содержание.) В рамках [второго этапа](https://github.com/snordenstorm/wiki/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-Ethereum#%D0%A7%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B5-%D1%85%D0%B2%D0%B0%D1%82%D0%B0%D0%B5%D1%82-%D0%B2-%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B8) пробежимся по всем понятиям, возникающим в Эфириум, и кратко опишем, что они примерно делают и зачем нужны.
 
 ### Краткое содержание [White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper)
 
