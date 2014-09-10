@@ -306,7 +306,7 @@ A concept which can arguably be considered to be a mirror image of currency is a
 
 
 
-##### 14. Системы, противостоящие атаке Сивиллы
+##### 14. Системы, противостоящие [атаке Сивиллы](http://en.wikipedia.org/wiki/Sybil_attack)
 
 Другая задача (пожалуй, связанная с задачей создания систем репутаций)
 
