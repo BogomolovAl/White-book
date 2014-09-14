@@ -299,7 +299,9 @@ A concept which can arguably be considered to be a mirror image of currency is a
 
 
 
-**Задача:** создать формализованную систему репутаций
+**Задача:** создать формализованную систему репутаций, включающую функцию `rep(A,B) -> V`, где `V` — репутация `B` с точки зрения `A` *(вообще неясная мысль)* как механизм определения, как одна из сторон могла бы доверять другой.
+
+Note that for the purpose of this use case we are targeting specifically the "can I trust you" use case of reputation, and not the social-incentivizing "whuffie"-esque currency-like aspect.
 
 **Дополнительные требования и допущения**:
 
