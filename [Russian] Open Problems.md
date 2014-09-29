@@ -4,14 +4,15 @@
 
 The science of cryptography, which has existed to some degree for millennia but in a formal and systematized form for less than fifty years, can be most simply defined as the study of communication in an adversarial environment. In a similar vein, we can define cryptoeconomics as a field that goes one step further: the study of economic interaction in an adversarial environment. To distinguish itself from traditional economics, which certainly studies both economic interaction and adversaries, cryptoeconomics generally focuses on interactions that take place over network protocols. Particular domains of cryptoeconomics include:
 
-Online trust and reputation systems
-Cryptographic tokens / cryptocurrencies, and more generally digital assets
-Self-executing "smart" contracts
-Consensus algorithms
-Anti-spam and anti-sybil attack algorithms
-Incentivized marketplaces for computational resources
-Decentralized systems for social welfare / mutual aid / basic income
-Decentralized governance (for both for-profit and non-profit entities)
+* Online trust and reputation systems
+* Cryptographic tokens / cryptocurrencies, and more generally digital assets
+* Self-executing "smart" contracts
+* Consensus algorithms
+* Anti-spam and anti-sybil attack algorithms
+* Incentivized marketplaces for computational resources
+* Decentralized systems for social welfare / mutual aid / basic income
+* Decentralized governance (for both for-profit and non-profit entities)
+
 The increasing prominence of cryptoeconomics in the last five years is to a large extent the result of the growth of cryptocurrencies and digital tokens, and brings a new, and interesting, dimension to cryptography. While before cryptography was, by and large, a purely computational and information-theoretic science, with strong guarantees built on security assumptions that are close to absolute, once money enters the picture the perfect world of mathematics must interact with a much more messy reality of human social structures, economic incentives, partial guarantees and known vulnerabilities that can only be mitigated, and not outright removed. While a cryptographer is used to assumptions of the form "this algorithm is guaranteed to be unbreakable provided that these underlying math problems remain hard", the world of cryptoeconomics must contend with fuzzy empirical factors such as the difficulty of collusion attacks, the relative quantity of altruistic, profit-seeking and anti-altruistic parties, the level of concentration of different kinds of resources, and in some cases even sociocultural circumstances.
 
 <!--
