@@ -17,7 +17,7 @@ Ethereum — это децентрализованная платформа со
 
 [Второй этап](https://github.com/snordenstorm/wiki/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-Ethereum#%D0%A7%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B5-%D1%85%D0%B2%D0%B0%D1%82%D0%B0%D0%B5%D1%82-%D0%B2-%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B8) является дополнением к [Глоссарию](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary): мы пробегаемся абсолютно по всем не описанным в Глоссарии понятиям, возникающим в контексте Эфириума, и рассказываем про их смысл и предназначение.
 
-### Краткое содержание [White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper)
+### Первый этап: краткое содержание [White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper)
 
 * [Введение в Биткойн и существующие концепции](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD-%D0%B8-%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8)
   - [История](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F) — здесь приводятся ссылки на предшествующие (неуспешные) работы по созданию цифровых валют, а также рассказывается, зачем вообще нужен proof-of-work, зачем выполнять какую-то работу для получения монет
@@ -48,7 +48,7 @@ Ethereum — это децентрализованная платформа со
   - [Масштабируемость](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%9C%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C) — 
 * [Заключение](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) — 
 
-### Что не разъяснено детально в [Глоссарии](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary)
+### Второй этап: что не разъяснено детально в [Глоссарии](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary)
 
 Глоссарий, как и всегда — словарик, объясняющий все связанные с нашей темой термины. Скорее всего, нужный Вам термин есть там. Поскольку глоссарий несовершенен, ниже предполагается объяснять всё, что в нём упущено. 
 
