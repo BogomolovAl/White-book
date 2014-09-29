@@ -2,11 +2,25 @@
 
 ## Задачи, стоящие перед криптоэкономикой
 
+The science of cryptography, which has existed to some degree for millennia but in a formal and systematized form for less than fifty years, can be most simply defined as the study of communication in an adversarial environment. In a similar vein, we can define cryptoeconomics as a field that goes one step further: the study of economic interaction in an adversarial environment. To distinguish itself from traditional economics, which certainly studies both economic interaction and adversaries, cryptoeconomics generally focuses on interactions that take place over network protocols. Particular domains of cryptoeconomics include:
+
+Online trust and reputation systems
+Cryptographic tokens / cryptocurrencies, and more generally digital assets
+Self-executing "smart" contracts
+Consensus algorithms
+Anti-spam and anti-sybil attack algorithms
+Incentivized marketplaces for computational resources
+Decentralized systems for social welfare / mutual aid / basic income
+Decentralized governance (for both for-profit and non-profit entities)
+The increasing prominence of cryptoeconomics in the last five years is to a large extent the result of the growth of cryptocurrencies and digital tokens, and brings a new, and interesting, dimension to cryptography. While before cryptography was, by and large, a purely computational and information-theoretic science, with strong guarantees built on security assumptions that are close to absolute, once money enters the picture the perfect world of mathematics must interact with a much more messy reality of human social structures, economic incentives, partial guarantees and known vulnerabilities that can only be mitigated, and not outright removed. While a cryptographer is used to assumptions of the form "this algorithm is guaranteed to be unbreakable provided that these underlying math problems remain hard", the world of cryptoeconomics must contend with fuzzy empirical factors such as the difficulty of collusion attacks, the relative quantity of altruistic, profit-seeking and anti-altruistic parties, the level of concentration of different kinds of resources, and in some cases even sociocultural circumstances.
+
+<!--
+
 Созданный Сатоши Накамото Биткойн — поистине удивительное изобретение. В то время как исследования в криптографии с 1980-ых погружались всё глубже и глубже в пучину сложности и неясности, развивая протоколы, основанные на таких конструкциях, как [решётки идеалов](http://en.wikipedia.org/wiki/Ideal_lattice_cryptography), спаривания на эллиптической кривой и [полностью гомоморфное шифрование](http://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BD%D0%BE%D0%B5_%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#.D0.9F.D0.BE.D0.BB.D0.BD.D0.BE.D1.81.D1.82.D1.8C.D1.8E_.D0.B3.D0.BE.D0.BC.D0.BE.D0.BC.D0.BE.D1.80.D1.84.D0.BD.D0.BE.D0.B5_.D1.88.D0.B8.D1.84.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5), Биткойн смог решить проблему 30-летней давности в computer science, используя лишь хэши и публичные ключи. Однако при том, что Биткойн-протокол — открытие просто потрясающее, это лишь проба пера, "первый блин" в истории криптоэкономики. С момента запуска сети Биткойн прошло более 5 лет, за которые мы многое поняли о том, как криптовалюта и децентрализованное соглашение могут быть улучшены. Никуда не делись пока что проблемы централизации майнинга, масштабируемости, а также сложности с развитием приложений более высокого уровня, таких как системы репутации. Большинство из этих проблем только ждут фундаментального прорыва, который смог бы стать по-настоящему эффективным решением той или иной из них.
 
 Цель этого документа — выявить проблемы децентрализованных структур и аспекты, которые могли бы быть улучшены, слепив из них набор достаточно строго сформулированных "задач". Некоторые из этих задач проще, некоторые тяжелее, какие-то уже почти решены, а о каких-то сообщество ещё и не начинало думать. Некоторые из них — задачи, имеющие определённый ответ, некоторые — с совершенно произвольной формой ответа. Каждая из них, тем не менее, является вызовом, и будущее криптовалют и технологии децентрализованного соглашения во многом зависит от успешности их решения.
 
-<!-- ### Введение -->
+### Введение -->
 
 Мы всегда работаем в каком-то предположении, в рамках какой-то модели. В традиционной криптографии они имеют такой вид:
 
