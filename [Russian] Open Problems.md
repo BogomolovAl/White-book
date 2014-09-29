@@ -2,16 +2,18 @@
 
 ## Задачи, стоящие перед криптоэкономикой
 
-The science of cryptography, which has existed to some degree for millennia but in a formal and systematized form for less than fifty years, can be most simply defined as the study of communication in an adversarial environment. In a similar vein, we can define cryptoeconomics as a field that goes one step further: the study of economic interaction in an adversarial environment. To distinguish itself from traditional economics, which certainly studies both economic interaction and adversaries, cryptoeconomics generally focuses on interactions that take place over network protocols. Particular domains of cryptoeconomics include:
+Криптографию, существовавшую в каком-то виде тысячелетиями и в систематизированном виде — менее чем 50 лет, проще всего определить как науку, изучающую коммуникацию во враждебной среде. Действуя в том же духе, мы можем определить криптоэкономику как область, которая делает на один шаг больше: изучает экономические взаимодействия в состязательной среде. Чтобы подчеркнуть отличия от традиционной экономики, которая , криптоэкономика To distinguish itself from traditional economics, which certainly studies both economic interaction and adversaries, cryptoeconomics generally focuses on interactions that take place over network protocols. Областями криптоэкономики, например, являются:
 
-* Online trust and reputation systems
-* Cryptographic tokens / cryptocurrencies, and more generally digital assets
-* Self-executing "smart" contracts
-* Consensus algorithms
-* Anti-spam and anti-sybil attack algorithms
+* Онлайн-системы репутации
+* Криптографические жетоны / криптовалюты, и, более общо, цифровые активы
+* Самоисполняющиеся "смарт"-контракты
+* Алгоритмы децентрализованного соглашения
+* АНти-спам алгоритмы и алгоритмы противодействия "атаке Сивиллы"
 * Incentivized marketplaces for computational resources
 * Decentralized systems for social welfare / mutual aid / basic income
 * Decentralized governance (for both for-profit and non-profit entities)
+
+Растущая известность криптоэкономики в последние 5 лет — в большой степени , и привносит новое интересное измерение в криптографию. Если ранее криптография была, по большому счёту, сугубо , то с тех пор, как в игру вступили деньги, строгий мир математики вступает во взаимодействие с хаотичной реальностью человеческих социальных структур, экономических стимулов, частичных гарантий и известных уязвимостей, которые могут быть лишь смягчены, но не исключены полностью. В то время как криптограф привычен к формулировкам вида "this algorithm is guaranteed to be unbreakable provided that these underlying math problems remain hard", мир криптоэкономики , такими как , сравнительная доля альтруистов, рационалистов и анти-альтруистов, уровень концентрации ресурсов, и в некоторых случаях даже социокультурные обстоятельства.
 
 The increasing prominence of cryptoeconomics in the last five years is to a large extent the result of the growth of cryptocurrencies and digital tokens, and brings a new, and interesting, dimension to cryptography. While before cryptography was, by and large, a purely computational and information-theoretic science, with strong guarantees built on security assumptions that are close to absolute, once money enters the picture the perfect world of mathematics must interact with a much more messy reality of human social structures, economic incentives, partial guarantees and known vulnerabilities that can only be mitigated, and not outright removed. While a cryptographer is used to assumptions of the form "this algorithm is guaranteed to be unbreakable provided that these underlying math problems remain hard", the world of cryptoeconomics must contend with fuzzy empirical factors such as the difficulty of collusion attacks, the relative quantity of altruistic, profit-seeking and anti-altruistic parties, the level of concentration of different kinds of resources, and in some cases even sociocultural circumstances.
 
