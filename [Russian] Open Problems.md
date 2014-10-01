@@ -388,11 +388,16 @@ Note that for the purpose of this use case we are targeting specifically the "ca
 
 ##### 15. Децентрализованное измерение вклада
 
-Стимулирование создания общественных благ является, к сожалению, не единственной из проблем, решаемых с помощью централизации. 
+Поощрение создания общественных благ является, к сожалению, не единственной из задач, решаемых с помощью централизации. Другой такой проблемой является определить, во-первых, какие общественные блага стоит производить в первую очередь, и, во-вторых,   The other problem is determining, first, which public goods are worth producing in the first place and, second, determining to what extent a particular effort actually accomplished the production of the public good. This challenge deals with the latter issue. Although in the case of computational tasks it's easy to come up with a proof of solution, for non-computational tasks the situation is much more difficult. If a cryptoeconomic system wants to incentivize users to build better graphical user interfaces to its own system, how would it rate people's contributions? Even more problematically, what about potentially quasi-adversarial tasks like incentivizing updates to its own code? Что насчёт ДАО, финансирующей здравоохранение, или поощряющей использование возобновляемых источников энергии?
 
-Что насчёт ДАО, 
+Это подкласс более общей "social proof" problem; here, the particular challenge is that each individual datum in question is something that very few people are interested in, and data gathering costs are often high. Sometimes, there is not even a concept of a single "correct" value with respect to the particular metric; in the case of quality measurement for an interface, a solution like A/B testing may be required. In adversarial cases, there may need to be an opportunity for incentivized opponents to look at a solution and attempt to pick it apart.
 
+**Задача:** придумать и внедрить децентрализованный метод определения, кем было выполнено то или иное задание, и примерного оценивания качества выполнения работы.
 
+**Дополнительные требования и допущения:**
+
+* Вовлечёнными сторонами здесь могут быть отдельные люди, группы людей, боты и другие ДАО
+* Не существует криптографического способа проверить какую-либо информацию о выполнении задания; система должна полностью полагаться на некое подобие social proof
 
 ##### 16. Децентрализованное измерение успеха
 
