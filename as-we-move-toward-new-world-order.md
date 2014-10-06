@@ -142,6 +142,8 @@ http://lenta.ru/news/2014/04/25/donors/
 
 ### Ссылки и дальнейшее чтение
 
+В ролях: цветные монеты, smart property, сайдчейны, децентрализованные автономные организации, 3D-принтеры, квадрокоптеры.
+
 [10 тезисов Павла Дурова](http://www.afisha.ru/article/pavel-durov-vkontakte/), [7 тезисов Павла Дурова](https://vk.com/id1?w=wall1_45626)
 
 [Почему люди платят налоги](http://ilyabirman.ru/meanwhile/all/why-people-pay-taxes/)
