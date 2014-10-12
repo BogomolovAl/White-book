@@ -1,5 +1,5 @@
 (Если вы не понимаете, куда попали, вам [сюда](https://github.com/snordenstorm/wiki/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B) или на [homepage](https://github.com/snordenstorm/wiki/wiki/My-Ethereum-Homepage).)
-Здесь я пытаюсь построить что-то вроде университетского спецкурса про Ethereum. Официальная документация расположена преимущественно по адресу [github.com/ethereum/wiki/wiki](https://github.com/ethereum/wiki/wiki). Некоторые другие места Сети, где могут быть материалы про Ethereum:
+Здесь я пытаюсь построить что-то вроде университетского спецкурса про Ethereum (впрочем, сейчас я скорее занимаюсь здесь агрегацией информации). Официальная документация расположена преимущественно по адресу [github.com/ethereum/wiki/wiki](https://github.com/ethereum/wiki/wiki). Некоторые другие места Сети, где могут быть материалы про Ethereum:
 * [ethereum.org](http://ethereum.org/)
 * [official Twitter](https://twitter.com/ethereumproject)
 * [official youtube](http://www.youtube.com/user/ethereumproject)
@@ -42,6 +42,8 @@ Ethereum — это децентрализованная платформа со
 * Wire protocol
 * Light client protocol
 * Serpent
+* Mutan
+* Whisper
 
 ### Второй этап: краткое содержание [White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper)
 
@@ -56,7 +58,7 @@ Ethereum — это децентрализованная платформа со
   - [Эфириум-аккаунты](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%AD%D1%84%D0%B8%D1%80%D0%B8%D1%83%D0%BC-%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D1%8B) — возможны аккаунты двух типов: externally owned account и contract account; каждый из аккаунтов содержит 4 поля: счётчик во избежание многоразовости одной и той же транзакции, баланс, код контракта (для контракт-аккаунтов), хранилище
   - [Сообщения и транзакции](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8) — транзакцией называется сообщение, отправленное by externally owned account; авторы транзакций обеспечивают их выполнение и выполнение порождаемых ими сообщений вложенным в контракт эфиром; равноправие человека и контракта на уровне сообщений
   - [Функция изменения состояния в Эфириум](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%AD%D1%84%D0%B8%D1%80%D0%B8%D1%83%D0%BC) — описывается алгоритм её работы: сначала в общем виде, затем на примере
-  - [Выполнение кода](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0) — 
+  - [Выполнение кода](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0) — описывается, как работает низкоуровневый Ethereum Virtual Machine code
   - [Блокчейн и майнинг](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%91%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D0%B8-%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3) — 
 * [Приложения](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
   - [Системы жетонов](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%B6%D0%B5%D1%82%D0%BE%D0%BD%D0%BE%D0%B2) — системы жетонов встраиваются очень легко, а использовать их можно для представления акций компании, жетонов умной собственности, "плюсиков" и всего что я забыл 
