@@ -1,5 +1,5 @@
 (Если вы не понимаете, куда попали, вам [сюда](https://github.com/snordenstorm/wiki/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B) или на [homepage](https://github.com/snordenstorm/wiki/wiki/My-Ethereum-Homepage).)
-Здесь я пытаюсь построить что-то вроде университетского спецкурса про Ethereum (впрочем, сейчас я скорее занимаюсь здесь агрегацией информации). Официальная документация расположена преимущественно по адресу [github.com/ethereum/wiki/wiki](https://github.com/ethereum/wiki/wiki). Некоторые другие места Сети, где могут быть материалы про Ethereum:
+Здесь я пытаюсь построить что-то вроде университетского спецкурса про Ethereum. Официальная документация расположена преимущественно по адресу [github.com/ethereum/wiki/wiki](https://github.com/ethereum/wiki/wiki). Некоторые другие места Сети, где могут быть материалы про Ethereum:
 * [ethereum.org](http://ethereum.org/)
 * [official Twitter](https://twitter.com/ethereumproject)
 * [official youtube](http://www.youtube.com/user/ethereumproject)
@@ -13,7 +13,7 @@ Ethereum — это децентрализованная платформа со
 
 В качестве нулевого этапа погружения в бездну Эфириума рекомендовал бы вдохновившие меня когда-то популярные статьи: [первая](http://bitnovosti.com/2014/03/05/dacs/), [вторая](http://bitnovosti.com/2014/03/01/etherium-next-generation-crypto/). 
 
-Первый этап является дополнением к [Глоссарию](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary): мы пробегаемся абсолютно по всем связанным с криптовалютами понятиям и рассказываем про их идеи.
+Первый этап является дополнением к [Глоссарию](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary): мы пробегаемся абсолютно по всем связанным с криптовалютами понятиям и рассказываем про их идеи. Здесь происходит агрегация информации.
 
 [Вторым же этапом](https://github.com/snordenstorm/wiki/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-Ethereum#%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D1%8D%D1%82%D0%B0%D0%BF-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-white-paper) погружения в бездну должно стать чтение White Paper (Манифеста). (Ниже я привожу выжимку из него — краткое содержание.) 
 
