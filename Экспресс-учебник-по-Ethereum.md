@@ -5,12 +5,6 @@
 * [official youtube](http://www.youtube.com/user/ethereumproject)
 * bitcointalk
 
-### Subvert
-
-### Буквы
-
-### Sбуквы
-
 ### Краткий ответ на вопрос "Что такое Ethereum"
 
 Ethereum — это децентрализованная платформа со встроенной криптовалютой и со встроенным Тьюринг-полным языком программирования, что позволяет сторонам заключать любые мыслимые (финансовые, нефинансовые) контракты. Масштаб потенциальных приложений поражает воображение: [версия разработчиков](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F), [более лаконичная моя](https://github.com/snordenstorm/wiki/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9%D0%B7%D0%B5%D1%80). 
