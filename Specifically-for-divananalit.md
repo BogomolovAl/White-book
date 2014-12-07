@@ -28,4 +28,4 @@ average time of finding a block тоже чему-то равно:
 
 Мы вычислили доход майнера за 1 секунду и его расходы на электричество за это же время. Условие, при котором майнинг выгоден, получается —
 
-![7](http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Ctext%7Baverage%20transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D%20%3E%20%5Cfrac%7B0.12%7D%7B3600000%7D%20%5Ccdot%20%5Ctext%7BW%7D)
+![7](http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Ctext%7Bav.transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D%20%3E%20%5Cfrac%7B0.12%7D%7B3600000%7D%20%5Ccdot%20%5Ctext%7BW%7D)
