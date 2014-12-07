@@ -20,6 +20,10 @@ average time of finding a block тоже чему-то равно:
 
 ![5](http://latex.codecogs.com/gif.latex?%5Ctext%7Bcost%20%28in%20USD%29%7D%20%3D%200.12%20%5Chskip%203%20pt%20%5Cfrac%7B%5C%24%7D%7B%5Ctext%7B%281000%20W%29%7D%20%5Ccdot%20%5Ctext%7B%283600%20sec%29%7D%7D%20%5Ccdot%20%5Ctext%7BW%7D%20%3D%20%5Cfrac%7B0.12%7D%7B3600000%7D%20%5Chskip%203%20pt%20%5Cfrac%7B%5C%24%7D%7B%5Ctext%7BkW%7D%20%5Ccdot%20%5Ctext%7Bhour%7D%7D%20%5Ccdot%20%5Ctext%7BW%7D)
 
+или, убрав размерности,
+
+![6](http://latex.codecogs.com/gif.latex?%5Ctext%7Bcost%20%28in%20USD%29%7D%20%3D%20%5Cfrac%7B0.12%7D%7B3600000%7D%20%5Ccdot%20%5Ctext%7BW%7D)
+
 (Взята цена на электричество в 0.12$ за киловатт-час.)
 
 Мы вычислили доход майнера за 1 секунду и его расходы на электричество за это же время.
