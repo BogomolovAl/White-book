@@ -14,7 +14,7 @@ average time of finding a block тоже чему-то равно:
 
 так что окончательно имеем
 
-![4](http://latex.codecogs.com/gif.latex?%5Ctext%7Bincome%20%28in%20USD%29%7D%20%3D%20%5Cfrac%7B%5Ctext%7Baverage%20transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D)
+![4](http://latex.codecogs.com/gif.latex?%5Ctext%7Bincome%20%28in%20USD%29%7D%20%3D%20%5Cfrac%7B%5Ctext%7Baverage%20transaction%20fee%20in%20USD%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D)
 
 Опустив в этом вычислении цену покупки АСИКа (сделав вид, что АСИК достался нам бесплатно), посчитаем секундный расход майнера:
 
@@ -28,7 +28,7 @@ average time of finding a block тоже чему-то равно:
 
 Мы вычислили доход майнера за 1 секунду и его расходы на электричество за это же время. Условие, при котором держать АСИКи включенными выгодно, получается,
 
-![7](http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Ctext%7Bav.transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D%20%3E%20%5Cfrac%7B0.12%7D%7B3600000%7D%20%5Ccdot%20%5Ctext%7BW%7D)
+![7](http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Ctext%7Bav.transaction%20fee%20in%20USD%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D%20%3E%20%5Cfrac%7B0.12%7D%7B3600000%7D%20%5Ccdot%20%5Ctext%7BW%7D)
 
 #### Мне неинтересно, при каком условии держать АСИКи включенными выгодно, мне интересно, покупать ли мне АСИК.
 
