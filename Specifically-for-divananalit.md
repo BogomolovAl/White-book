@@ -6,7 +6,9 @@
 
 где fee from block in USD чему-то там равно, а именно,
 
-![2](http://latex.codecogs.com/gif.latex?%5Ctext%7Bfee%20from%20block%20in%20USD%7D%20%3D%20%5Ctext%7Baverage%20transaction%20fee%20in%20USD%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29)
+![2](http://latex.codecogs.com/gif.latex?%5Ctext%7Bfee%20from%20block%20in%20USD%7D%20%3D%20%5Ctext%7Baverage%20transaction%20fee%20in%20USD%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29,)
+
+average transaction fee in USD не меняется.
 
 average time of finding a block тоже чему-то равно:
 
