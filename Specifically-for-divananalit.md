@@ -6,7 +6,7 @@
 
 где fee from block in USD чему-то там равно, а именно,
 
-![2](http://latex.codecogs.com/gif.latex?%5Ctext%7Bfee%20from%20block%20in%20USD%7D%20%3D%20%5Ctext%7Baverage%20transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D%20%3E)
+![2](http://latex.codecogs.com/gif.latex?%5Ctext%7Bfee%20from%20block%20in%20USD%7D%20%3D%20%5Ctext%7Baverage%20transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D)
 
 average time of finding a block тоже чему-то равно:
 
@@ -14,7 +14,7 @@ average time of finding a block тоже чему-то равно:
 
 так что окончательно имеем
 
-![4](http://latex.codecogs.com/gif.latex?%5Ctext%7Bincome%20%28in%20USD%29%7D%20%3D%20%5Cfrac%7B%5Ctext%7Baverage%20transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D%20%3E)
+![4](http://latex.codecogs.com/gif.latex?%5Ctext%7Bincome%20%28in%20USD%29%7D%20%3D%20%5Cfrac%7B%5Ctext%7Baverage%20transaction%20fee%7D%20%5Ccdot%20%28%5Ctext%7BTPS%7D%20%5Ccdot%20600%29%20%5Ccdot%20%5Ctext%7Bhashrate%7D%7D%7B2%5E%7B32%7D%20%5Ccdot%20%5Ctext%7Bdiff%7D%7D%20%5Ccdot%20%5Ctext%7Bprice%20of%201%20BTC%7D)
 
 Опустив в этом вычислении цену покупки АСИКа (сделав вид, что АСИК достался нам бесплатно), посчитаем секундный расход майнера:
 
