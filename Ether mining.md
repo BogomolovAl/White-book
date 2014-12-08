@@ -19,6 +19,9 @@ VPS я искал [здесь](https://poiskvps.ru/).
 
 #### Normal CPU mining
 
+**Vertcoin**: мой дохлый домашний ноутбук, купленный ровно 5 лет назад, [выдаёт 2 khash/s](https://dl.dropboxusercontent.com/u/14533127/experiment/Vertcoin/vertcoin_my.png)
+**Darkcoin**:  32-bit mining is not supported as a means to protect the network against botnets.
+
 #### Сравнение и выводы
 
 * Процессоры можно перепродать, VPS — нет.
