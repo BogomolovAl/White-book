@@ -13,7 +13,7 @@
 
 #### Общая инструкция о том, как майнить в пуле, для тех, кто никогда этого не делал
 
-[(О том, что такое майнинг-пулы и почему без них никак.)](https://github.com/snordenstorm/wiki/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BF%D1%83%D0%BB%D1%8B)
+[(Нажми сюда, если тебе интересно, что такое майнинг-пулы и почему без них никак.)](https://github.com/snordenstorm/wiki/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BF%D1%83%D0%BB%D1%8B)
 
 * Набираешь в гугле, например, "vertcoin pool"
 * Переходишь по ссылке, попадаешь на [vtcweb.poolz.net](http://vtcweb.poolz.net/). Большинство пулов слеплено по одному шаблону и выглядит примерно как этот. 
