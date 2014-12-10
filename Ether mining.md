@@ -37,7 +37,7 @@ minerd.exe -a scrypt -o stratum+tcp://vtc.poolz.net:3333 -u snordenstorm.user0 -
 #### Откуда скачивать майнеры
 
 **Boolberry**: сейчас [этот пул](http://cncoin.farm/) крупнейший; вся информация по майнингу [здесь](http://cncoin.farm/#getting_started) (видимо, boolberry-easy-miner либо CPUMiner; первый мне нравится больше); 64-bit only by design<br>
-**Vertcoin**: [отсюда](https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850)<br>
+**Vertcoin**: [отсюда](https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850), а майнить, например, [здесь](http://vtcweb.poolz.net/)<br>
 **Bytecoin**: [вся информация здесь](http://bcn.extremepool.org/#getting_started) (видимо, cryptonote-easy-miner либо CPUMiner forked by LucasJones & Wolf; первый мне нравится больше); 64-bit only by design<br>
 **Darkcoin**: [вот](http://wiki.darkcoin.eu/wiki/Mining_Darkcoin#Mining_Programs); 32-bit mining is not supported as a means to protect the network against botnets.
 
