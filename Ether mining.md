@@ -34,7 +34,7 @@ minerd.exe -a scrypt -o stratum+tcp://vtc.poolz.net:3333 -u snordenstorm.user0 -
 ![pooled_mining](https://dl.dropboxusercontent.com/u/14533127/paperfor/pooled_mining.png)
 
 
-#### Откуда качать майнеры
+#### Откуда скачивать майнеры
 
 **Boolberry**: <br>
 **Vertcoin**: [отсюда](https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850)<br>
