@@ -4,7 +4,7 @@
 
 Алгоритмы хеширования, которые нам кажутся хорошим приближением к тому, что будет в Эфириум и которые мы потому рассматриваем — Wild Keccak, Scrypt-N, Cryptonight, X11 (в порядке убывания удачности приближения). Будем добывать соответствующие им монеты: Boolberry, Vertcoin, Bytecoin, Darkcoin. 
 
-#### Оглавление
+#### Что важно
 
 * [VPS mining](https://github.com/snordenstorm/wiki/wiki/Ether-CPU-mining#vps-mining)
 * [Amazon AWS Cloud Computing mining](https://github.com/snordenstorm/wiki/wiki/Ether-CPU-mining#amazon-aws-cloud-computing-mining)
