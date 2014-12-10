@@ -34,7 +34,7 @@ minerd.exe -a scrypt -o stratum+tcp://vtc.poolz.net:3333 -u snordenstorm.user0 -
 ![pooled_mining](https://dl.dropboxusercontent.com/u/14533127/paperfor/pooled_mining.png)
 *Хэшрэйт этого товарища я бы оценил в 400-450 khash/s. (Он явно использует GPU, а не CPU.)*
 
-#### Откуда скачивать майнеры
+#### Откуда скачивать ПО для майнинга
 
 **Boolberry**: сейчас [этот пул](http://cncoin.farm/) крупнейший; вся информация по майнингу [здесь](http://cncoin.farm/#getting_started) (видимо, boolberry-easy-miner либо CPUMiner; первый мне нравится больше); 64-bit only by design<br>
 **Vertcoin**: [отсюда](https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850), а майнить, например, [здесь](http://vtcweb.poolz.net/)<br>
