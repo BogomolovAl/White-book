@@ -13,7 +13,7 @@
 
 #### Общая инструкция о том, как майнить в пуле, для тех, кто никогда этого не делал
 
-[О том, что такое майнинг-пулы и почему без них никак.](https://github.com/snordenstorm/wiki/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BF%D1%83%D0%BB%D1%8B)
+[(О том, что такое майнинг-пулы и почему без них никак.)](https://github.com/snordenstorm/wiki/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BF%D1%83%D0%BB%D1%8B)
 
 * Набираешь в гугле, например, "vertcoin pool"
 * Переходишь по ссылке, попадаешь на [vtcweb.poolz.net](http://vtcweb.poolz.net/). Большинство пулов слеплено по одному шаблону и выглядит примерно как этот. 
@@ -39,7 +39,7 @@ minerd.exe -a scrypt -o stratum+tcp://vtc.poolz.net:3333 -u snordenstorm.user0 -
 **Boolberry**: <br>
 **Vertcoin**: [отсюда](https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850)<br>
 **Bytecoin**: <br>
-**Darkcoin**: 
+**Darkcoin**: [вот](http://wiki.darkcoin.eu/wiki/Mining_Darkcoin#Mining_Programs); 32-bit mining is not supported as a means to protect the network against botnets.
 
 #### VPS mining
 
@@ -50,7 +50,7 @@ minerd.exe -a scrypt -o stratum+tcp://vtc.poolz.net:3333 -u snordenstorm.user0 -
 #### Normal CPU mining
 
 **Vertcoin**: мой дохлый домашний ноутбук, купленный ровно 5 лет назад, [выдаёт 2 khash/s](https://dl.dropboxusercontent.com/u/14533127/experiment/Vertcoin/vertcoin_my.png); университетский ПК выдаёт 7 khash/s, университетский 64-разрядный ПК выдаёт 15 khash/s <br>
-**Darkcoin**:  32-bit mining is not supported as a means to protect the network against botnets.
+**Darkcoin**:  
 
 #### Сравнение и выводы
 
