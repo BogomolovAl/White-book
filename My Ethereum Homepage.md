@@ -58,7 +58,7 @@
 
 **Q**: MOAR? <br>
 **A**: * [ethereum.org](http://ethereum.org/)
-* [forum.ethereum.org](https://forum.ethereum.org/)
-* [blog.ethereum.org](https://blog.ethereum.org/)
+       * [forum.ethereum.org](https://forum.ethereum.org/)
+       * [blog.ethereum.org](https://blog.ethereum.org/)
 * [official Twitter](https://twitter.com/ethereumproject)
 * [official youtube](http://www.youtube.com/user/ethereumproject)
