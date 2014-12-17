@@ -42,7 +42,7 @@
 
 
 **Q**: Ты написал какие-нибудь классные текстики? <br>
-**A**: По Эфириум два приличных: это [русский перевод Ethereum White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper) и [глоссарий](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary). Ещё есть [эпический труд про матчасть биткойн-майнинга](https://github.com/snordenstorm/wiki/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2), но c'est offtop for this page, [поля сии слишком узки](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%A4%D0%B5%D1%80%D0%BC%D0%B0#.D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F), всё такое.
+**A**: По Эфириум два приличных: это [русский перевод Ethereum White Paper](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper) и [глоссарий](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-Glossary). Ещё есть [эпический труд про матчасть биткойн-майнинга](https://github.com/snordenstorm/wiki/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2), но c'est offtop for this page, поля сии слишком узки, всё такое.
 
 **Q**: В целом интересно. Как бы мне (бабло начать зашибать)/(изменить мир)? <br>
 **A**: Для начала вдохновись: прочитай часть White Paper, [связанную со смарт-контрактами](https://github.com/snordenstorm/wiki/wiki/[Russian]-White-Paper#%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8). Затем проанализируй [вот это моё творение](https://github.com/snordenstorm/wiki/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9%D0%B7%D0%B5%D1%80), подумай, что ещё можно было бы реализовать с помощью Ethereum, что я забыл. Далее, возьмись за что-нибудь из этого:
@@ -55,8 +55,7 @@
 **A**: Попробуй придумать приложение в мире, где есть программируемые деньги.
 
 **Q**: MOAR? <br>
-**A**: 
-* [ethereum.org](http://ethereum.org/)
+**A**: * [ethereum.org](http://ethereum.org/)
 * [forum.ethereum.org](https://forum.ethereum.org/)
 * [blog.ethereum.org](https://blog.ethereum.org/)
 * [official Twitter](https://twitter.com/ethereumproject)
