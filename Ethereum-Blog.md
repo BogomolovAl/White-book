@@ -32,7 +32,7 @@
 
 ##### [Conference, Alpha Testnet and Ether Pre-sale Updates](https://blog.ethereum.org/2014/01/29/conference-alpha-testnet-and-ether-pre-sale-updates/)
 
-Уже неактуальные сведения (ааа, простите, не первого февраля presale).
+Уже неактуальные сведения ("ааа, простите, не первого февраля presale").
 
 ##### [On Transaction Fees, And The Fallacy of Market-Based Solutions](https://blog.ethereum.org/2014/02/01/on-transaction-fees-and-the-fallacy-of-market-based-solutions/)
 
@@ -98,6 +98,8 @@
 
 ##### [Ether Purchase Troubleshooting](https://blog.ethereum.org/2014/07/23/ether-purchase-troubleshooting/)
 
+info actual by that time
+
 ##### [Programming Society with Asm: Gavin Wood at Assembly 2014](https://blog.ethereum.org/2014/08/06/programming-society-with-asm-gavin-wood-at-assembly-2014/)
 
 ##### [Ether Sale: A Statistical Overview](https://blog.ethereum.org/2014/08/08/ether-sale-a-statistical-overview/)
@@ -152,7 +154,13 @@
 
 ##### [Ethereum ÐΞV: What are we doing?](https://blog.ethereum.org/2014/12/17/ethereum-d%CE%BEv/)
 
+* 
+
 ##### [A call to all the bug bounty hunters out there…](https://blog.ethereum.org/2014/12/18/call-bug-bounty-hunters/)
+
+Меня зовут Jutta! И сегодня мы с вами будем ловить баги. Точнее, вы для нас будете ловить баги. В качестве приза предлагается, например, вписать золотыми буквами в genesis block блокчейна имена нашедших.
+
+Get ready for hunting down flaws in the protocols, Go implementation and network code.
 
 ##### [Secret Sharing DAOs: The Other Crypto 2.0](https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/)
 
@@ -161,5 +169,13 @@
 ##### [Jeff’s Ethereum ÐΞV Update II](https://blog.ethereum.org/2015/01/06/jeffs-ethereum-dev-update-2/)
 
 ##### [Ethereum Community Survey](https://blog.ethereum.org/2015/01/09/ethereum-community-survey/)
+
+Нечего делать - запили опрос.
+
+Из полезного - [ссылка на выступление Стефана Туала о use case'ах Эфириума.](https://www.youtube.com/watch?v=e6tH3VXQz38), [Mist presentation](https://www.youtube.com/watch?v=IgNjs_WaFSc), [Mix presentation](https://www.youtube.com/watch?v=hcP_z_wBlaM) (pack of various developer tools).
+
+[What kind of Dapps are you most interested in?](https://blog.ethereum.org/wp-content/uploads/2015/01/12-.png)
+
+Mutan и LLL - законсервированы. Serpent будет развиваться Виталиком и его командой, Solidity станет основным. [Попробовать Solidity в браузере.](https://chriseth.github.io/cpp-ethereum/)
 
 ##### [Light Clients and Proof of Stake](https://blog.ethereum.org/2015/01/10/light-clients-proof-stake/)
