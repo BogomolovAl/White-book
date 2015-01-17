@@ -170,7 +170,7 @@ Get ready for hunting down flaws in the protocols, Go implementation and network
 
 ##### [Ethereum Community Survey](https://blog.ethereum.org/2015/01/09/ethereum-community-survey/)
 
-Нечего делать - запили опрос.
+"Нечего делать - запили опрос."
 
 Из полезного - [ссылка на выступление Стефана Туала о use case'ах Эфириума.](https://www.youtube.com/watch?v=e6tH3VXQz38), [Mist presentation](https://www.youtube.com/watch?v=IgNjs_WaFSc), [Mix presentation](https://www.youtube.com/watch?v=hcP_z_wBlaM) (pack of various developer tools).
 
