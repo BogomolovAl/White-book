@@ -172,7 +172,7 @@ Get ready for hunting down flaws in the protocols, Go implementation and network
 
 "Нечего делать - запили опрос."
 
-Из полезного - [ссылка на выступление Стефана Туала о use case'ах Эфириума.](https://www.youtube.com/watch?v=e6tH3VXQz38), [Mist presentation](https://www.youtube.com/watch?v=IgNjs_WaFSc), [Mix presentation](https://www.youtube.com/watch?v=hcP_z_wBlaM) (pack of various developer tools).
+Из полезного - [ссылка на выступление Стефана Туала о use case'ах Эфириума](https://www.youtube.com/watch?v=e6tH3VXQz38), [Mist presentation](https://www.youtube.com/watch?v=IgNjs_WaFSc), [Mix presentation](https://www.youtube.com/watch?v=hcP_z_wBlaM) (pack of various developer tools).
 
 [What kind of Dapps are you most interested in?](https://blog.ethereum.org/wp-content/uploads/2015/01/12-.png)
 
