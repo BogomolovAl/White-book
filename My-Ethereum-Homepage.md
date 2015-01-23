@@ -57,7 +57,7 @@ def code():
 **A**: Включаться в деятельность по написанию децентрализованных приложений! А именно,
 
 * просмотри [главный аггрегатор деятельности разработчиков](https://github.com/ethereum/wiki/wiki) и [FAQ](https://github.com/ethereum/wiki/wiki/FAQ)
-* попробуй пописать смарт-контракты на любом из двух разработанных для этого языков (Javascript-like Solidity ([tutorial](https://github.com/ethereum/wiki/wiki/Solidity-Tutorial), [sandbox](http://chriseth.github.io/cpp-ethereum/)), Python-like Serpent ([tutorials](https://forum.ethereum.org/categories/education))). Если есть трудности (это нормально, на данной стадии строительства они не слишком заморачиваются написанием документации), можно связаться с разработчиками той или иной ветви через скайп/IRC или с русскоговорящими ребятами вроде меня. Если нет идей, какие приложения писать — проконсультируйся с моим [списком идей](https://github.com/snordenstorm/wiki/wiki/Органайзер).
+* попробуй пописать смарт-контракты на любом из двух разработанных для этого языков (Javascript-like Solidity ([tutorial](https://github.com/ethereum/wiki/wiki/Solidity-Tutorial), [sandbox](http://chriseth.github.io/cpp-ethereum/)), Python-like Serpent ([tutorials](https://forum.ethereum.org/categories/education))). Если есть трудности (это нормально, на данной стадии строительства они не слишком заморачиваются с написанием документации), можно связаться с разработчиками той или иной ветви через скайп/IRC или с русскоговорящими ребятами вроде меня. Если нет идей, какие приложения писать — проконсультируйся с моим [списком идей](https://github.com/snordenstorm/wiki/wiki/Органайзер).
 
 <!--
 **Q**: А по доброте душевной помочь тебе я как-то могу? Всё равно я занят(а) какой-то ерундой. <br>
