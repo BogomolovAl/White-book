@@ -34,6 +34,12 @@
 <br>
 Для обсуждения курсов есть веб-форум. Некоторые студенты организовывают встречи (meet-ups) как в онлайне, так и в оффлайне.
 <br>
+Бывают специализации: наборы связанных курсов + Capstone Project (an assignment that serves as a way for students to demonstrate the knowledge they’ve acquired in a Specialization to an applied project).
+<br>
+Курсы бывают двух типов: 1) доступные в любое время 2) с жёстким временем начала и окончания курса. У этих двух типов даже дизайн несколько разный (а в мобильной версии - абсолютно разный).<br>
+Можно попросить не платить за Verified Certificate - называется Applying for financial aid.<br>
+Набирают менторов и ассистентов за бесплатно. Хорошо устроились.<br>
+<br>
 <br>
 <br>
 * **Khan Academy** — short form tutorials в форме youtube videos, а также progress tracking, practice exercises, and a variety of tools for teachers in public schools. The videos show step-by-step doodles and diagrams on an electronic blackboard. Обладают personalized learning engine to help people track what they have learned and recommend what they can do next. Обладают видеобиблиотекой из >6500 видео.
@@ -58,15 +64,15 @@ Every student has their own (amazing!) dashboard. You can check your progress, c
 <br>
 <br>
 <br>
-* **ALISON** — никакой аффилированности с американскими университетами; в отличие от почти всех остальных MOOC-платформ, большинство учеников находится в развивающихся странах (наибольший прирост показывает Индия). Критикуется за отсутствие личного взаимодействия с наставниками (за отсутствие наставников) и со временем происходящее выпадение почти каждого из пользователей (примерно как на 1 курсе НМУ).
+* **ALISON** — никакой аффилированности с американскими университетами; в отличие от почти всех остальных MOOC-платформ, большинство учеников находится в развивающихся странах (наибольший прирост показывает Индия). Критикуется за отсутствие личного взаимодействия с наставниками (за отсутствие наставников) и со временем происходящее выпадение почти каждого из пользователей (примерно как на 1 курсе НМУ). Free certified learning.
 <br>
 <br>
 <br>
-**Eliademy** is a free online classroom that allows educators and students to create, share and manage online courses with real-time discussions and task management. Базируется на Moodle, Twitter Bootstrap и других опенсорсных технологиях.
+**Eliademy** is a free online classroom that allows educators and students to create, share and manage online courses with real-time discussions and task management.
 <br>
 <br>
 <br>
-**StraighterLine**. The company is itself unaccredited, but has partnerships with a number of accredited colleges and universities that accept its courses for credit. Offers more than 60 college courses.
+**StraighterLine** - educational company that offers low-price, online higher education courses that are equivalent to general courses required for a bachelor's degree. Has partnerships with a number of accredited colleges and universities that accept its courses for credit. Offers more than 60 college courses.
 <br>
 Content is delivered via a Blackboard LMS. Студенты могут взять любое количество курсов по цене $49 за курс + $99 в качестве месячной платы (или же десять курсов — эквивалент года обучения — за $1299). Финальный экзамен по каждому курсу проводится **ОЧНО** и его стоимость включена в приведённую выше.
 <br>
@@ -90,8 +96,8 @@ Launched professor led courses in December 2012. Professor Direct allows profess
 * **Coursera** — physics, engineering, humanities, medicine, biology, social sciences, mathematics, business, computer science и не только. По каждому курсу — короткие видео и задания, которые нужно выполнять еженедельно. Coursera courses approximate from four to ten weeks long (для около 100 курсов можно также работать в своём темпе — называется "on-demand"), with one to two hours of video lectures a week. Тесты; sometimes a final project or exam. >12 миллионов пользователей, >1000 курсов из 117 аффилированных институтов. 28 спецкурсов (т.е. курсов уровня специализации).
 * **Khan Academy** имеют сеть контент-экспертов. Provides an adaptive web-based exercise system that generates problems for students based on skill and performance. Веб-сайт переведён на 23 языка, видео — на 65. Introduced badges as part of a program to promote gamification of learning (there are currently 6 types). Миллионы пользователей в месяц.<br>
 * **Udacity** — Biology, Computer Science, Design, Enterpreneurship, Mathematics, Physics, Psychology, Statistics.
-* **ALISON** — более 600 курсов двух уровней: certificate level и diploma level. Для изучения и сдачи (certificate level)-курса требуется в среднем 1-2 часа, для изучения и сдачи (diploma level)-курса — 9-11. Но вообще there is no time limit on completing a course. Есть локально знаменитые курсы — Microsoft Digital Literacy Program, ABC IT.
-* **Udemy** — >22000 курсов. Темы включают бизнес и предпринимательство, искусство, здоровье и фитнес, языки, музыку, технологии. В специальный раздел выделен Udemy for Business, который предлагает доступ к >1000 курсам по разнообразным бизнес-топикам, а также предоставляет организациям возможность создавать learning portals for corporate training.
+* **ALISON** — >5M слушателей, более 600 курсов двух уровней: certificate level и diploma level. Для изучения и сдачи (certificate level)-курса требуется в среднем 1-2 часа, для изучения и сдачи (diploma level)-курса — 9-11. Но вообще there is no time limit on completing a course. Есть локально знаменитые курсы — Microsoft Digital Literacy Program, ABC IT.
+* **Udemy** — >30k курсов, >7M слушателей. Темы включают бизнес и предпринимательство, искусство, здоровье и фитнес, языки, музыку, технологии. В специальный раздел выделен Udemy for Business, который предлагает доступ к >1000 курсам по разнообразным бизнес-топикам, а также предоставляет организациям возможность создавать learning portals for corporate training.
 * **Codecademy** offers free coding classes in 8 programming or markup languages: Python, PHP, jQuery, JavaScript, AngularJS, Ruby, HTML, CSS.
 
 #### Монетизация
