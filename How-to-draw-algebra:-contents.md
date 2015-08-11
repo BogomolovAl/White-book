@@ -20,5 +20,5 @@
   - [Разбор: (x+2)(x+3), (x+4)(x-1), (x-2)(x-5)](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-modified-ghost)
   - [задачи: (x+6)(x+1), (x+2)(x-1), (x-1)(x-3), (2x-5)(x+2)](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%9A%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8)
 * [Делим графически](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A0%D0%B0%D0%B7%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5)
-  - [Разбор (x^2 + 5x + 6)/(x+3)](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-modified-ghost)
-  - [задачи: (x^2 + 7x + 6)/(x+1), (x^2 - x - 2)/(x-2), (x^2 + x - 6)/(x+3)](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%9A%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8)
+  - [Разбор (x<sup>2</sup> + 5x + 6)/(x+3)](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-modified-ghost)
+  - [задачи: (x<sup>2</sup> + 7x + 6)/(x+1), (x<sup>2</sup> - x - 2)/(x-2), (x<sup>2</sup> + x - 6)/(x+3)](https://github.com/snordenstorm/wiki/wiki/%5BRussian%5D-White-Paper#%D0%9A%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8)
