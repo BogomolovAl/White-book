@@ -10,10 +10,9 @@
   - [y = (x+2)<sup>2</sup>, y = x<sup>2</sup> + 2, y = (x-2)<sup>2</sup>, y = x<sup>2</sup> - 2](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [y = 1/x](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [y = 1/(x+2)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
-
 * [Рассказываю, как выглядят все линейные функции](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
 * [Рассказываю, как выглядят все квадратичные функции](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
-* [Рассказываю, что прибавление константы поднимает/опускает график функции на эту константу](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+* [Рассказываю, что прибавление константы просто поднимает/опускает график функции на эту константу](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
 * [Рассказываю, что замена x->x+2 просто сдвигает график по оси ОХ на два](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
 * [Сложные задачи на рисование функций:](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Назвать область определения и область значений: y = x<sup>2</sup>/(1+x), y = sqrt(3x - x<sup>3</sup>), y = (x-2)*sqrt((1+x)/(1-x)), y = sqrt(2 + x - x<sup>2</sup>)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
