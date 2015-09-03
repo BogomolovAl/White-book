@@ -1,0 +1,5 @@
+* [Кусочно-линейные функции](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+  - [где встречаются в реальной жизни](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+* [Ранее встречавшаяся нам кусочно-линейная функция: y = |x|](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+* [Новые кусочно-линейные функции: "целая часть", "дробная часть"](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+* [Кусочно-заданные функции](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
