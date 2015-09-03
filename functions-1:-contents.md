@@ -16,7 +16,7 @@
 * [Рассказываю, что замена x->x+2 просто сдвигает график по оси ОХ на два](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
 * [Сложные задачи на рисование функций:](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Назвать область определения и область значений: y = x<sup>2</sup>/(1+x), y = sqrt(3x - x<sup>3</sup>), y = (x-2)*sqrt((1+x)/(1-x)), y = sqrt(2 + x - x<sup>2</sup>)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
-  - [Построить графики: y = 2, y = 2 - 0.1x, y = 2x<sup>2</sup>, y = (1/2)<sup>2</sup>, y = 8x - 2x<sup>2</sup>, y = (x<sup>2</sup> + 4x + 3)/(x+1), y = x<sup>3</sup> + 1](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+  - [Построить графики: y = 2, y = 2 - 0.1x, y = 2x<sup>2</sup>, y = (1/2)x<sup>2</sup>, y = 8x - 2x<sup>2</sup>, y = (x<sup>2</sup> + 4x + 3)/(x+1), y = x<sup>3</sup> + 1](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = x<sup>3</sup>, y = x<sup>5</sup>, y = x<sup>4</sup>, y = x<sup>6</sup>, y = (1-x<sup>2</sup>)(2+x), y = x<sup>2</sup> - x<sup>4</sup>](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = sqrt(3)(x), y = sqrt(5)(x), y = sqrt(4)(x), y = sqrt(6)(x)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = (1-x)/(1+x), y = (3x+2)/(2x-3), y = x<sup>2</sup> + 1/x](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
