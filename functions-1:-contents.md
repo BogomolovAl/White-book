@@ -19,6 +19,6 @@
   - [Назвать область определения и область значений: y = x^2/(1+x), y = sqrt(3x - x^3), y = (x-2)*sqrt((1+x)/(1-x)), y = sqrt(2 + x - x^2)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = 2, y = 2 - 0.1x, y = 2x^2, y = (1/2)x^2, y = 8x - 2x^2, y = (x^2 + 4x + 3)/(x+1), y = x^3 + 1](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = x^3, y = x^5, y = x^4, y = x^6, y = (1-x^2)(2+x), y = x^2 - x^4](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
-  - [Построить графики: y = sqrt[3](x), y = sqrt[5](x), y = sqrt[4](x), y = sqrt[6](x)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
+  - [Построить графики: y = sqrt(3)(x), y = sqrt(5)(x), y = sqrt(4)(x), y = sqrt(6)(x)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = (1-x)/(1+x), y = (3x+2)/(2x-3), y = x^2 + 1/x](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
   - [Построить графики: y = 1/(1+x^2), y = 2x/(1+x^2), y = 1 + 2^(-x) (x-1)](https://github.com/snordenstorm/wiki/wiki/How-to-draw-algebra:-contents)
