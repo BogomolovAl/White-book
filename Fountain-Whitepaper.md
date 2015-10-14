@@ -1,8 +1,15 @@
 ## Оглавление
 
-* [Часть 1. Анализ рынка](https://github.com/snordenstorm/wiki/wiki/How-about-the-fountain%3F#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1-%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0)
-  - [Даты запуска](https://github.com/snordenstorm/wiki/wiki/How-about-the-fountain%3F#%D0%94%D0%B0%D1%82%D1%8B-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0)
-* [Часть 2. План развёртывания](https://github.com/snordenstorm/wiki/wiki/How-about-the-fountain%3F#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-2-%D0%9F%D0%BB%D0%B0%D0%BD-%D1%80%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+* [Часть 0. Intro](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-0-intro)
+* [Часть 1. Зачем этим заниматься?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1-%D0%97%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%BE%D0%BE%D0%B1%D1%89%D0%B5-%D1%8D%D1%82%D0%B8%D0%BC-%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D1%8C%D1%81%D1%8F)
+* [Часть 2. Кто создаёт контент?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-2-%D0%9A%D1%82%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%91%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82)
+* [Часть 3. Как финансово мотивировать людей создавать курсы?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-3-%D0%9A%D0%B0%D0%BA-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE-%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D1%83%D1%80%D1%81%D1%8B)
+* [Часть 4. Хорошо, а чему мы будем учить?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-4-%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%BE-%D0%B0-%D1%87%D0%B5%D0%BC%D1%83-%D0%BC%D1%8B-%D0%B1%D1%83%D0%B4%D0%B5%D0%BC-%D1%83%D1%87%D0%B8%D1%82%D1%8C)
+* [Часть 5. Как удерживать школьников?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-5-%D0%9A%D0%B0%D0%BA-%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)
+* [Часть 6. НКО или коммерческая компания?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-6-%D0%9D%D0%9A%D0%9E-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)
+* [Часть 7. Какова схема монетизации?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-7-%D0%9A%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0-%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
+* [Часть 8. Во что это всё вырисовывается?](https://github.com/snordenstorm/wiki/wiki/Fountain-Whitepaper#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-8-%D0%92%D0%BE-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D0%B2%D1%81%D1%91-%D0%B2%D1%8B%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F)
+
 
 ## Часть 0. Intro
 
@@ -120,11 +127,9 @@ Khan Academy и только они — школьное образование.
 
 ## Часть 4. Хорошо, а чему мы будем учить?
 
-Давайте честно себе признаемся: в 2015-ом владение фотошопом и основами инвестиционной грамотности полезнее школьного курса, например, математики для подавляющего большинства. Мы не знаем и не можем знать, какие навыки будут востребованы через 5 или 10 лет. Поэтому мы, конечно, должны разрешать любые учебные курсы, если только речь идёт не об обучении курению ганджубаса. (Нет, ганджубас — это, может, и хорошо, но не на веб-портале для детей и подростков.)
+Давайте честно себе признаемся: в 2015-ом владение фотошопом и основами инвестиционной грамотности полезнее школьного курса, например, математики для подавляющего большинства. Мы не знаем и не можем знать, какие навыки будут востребованы через 5 или 10 лет. Поэтому Fountain, конечно, должен разрешать любые учебные курсы, если только речь идёт не об обучении курению ганджубаса. (Нет, ганджубас — это, может, и хорошо, но не на веб-портале для детей и подростков.)
 
-Ещё раз — мы очень рады нешкольным предметам. Но школьным тоже рады. :)
-
-Человеку, который только пришёл на веб-портал, предлагается выбрать интересы из облака тегов (или дописать свои). На основе выбранных интересов человеку предлагается облако курсов, которые могут быть для него интересными. Например, «math, level 19», «robotics, level 1», «photoshop, level 7», «macroeconomics, level 2», «japanese, level 1», «git and github, level 1», «javascript, level 3», «investing, level 5», «linguistics, level 1», «cosmology, level 2», «french, level 1», «physics, level 4», «econometrics, level 1», «english, level 8», «zoology, level 1», «folks' culture, level 1», «topology, level 3», «geography, level 1», «server administration, level 2», «banking, level 1», «chemistry, level 1», «world art, level 10», «c++, level 3», «literature, level 12», «computer graphics, level 1».
+Человеку, который посетил Fountain, предлагается выбрать интересы из облака тегов (или дописать свои). На основе выбранных интересов человеку предлагается облако курсов, которые могут быть для него интересными. Например, «math, level 19», «robotics, level 1», «photoshop, level 7», «macroeconomics, level 2», «japanese, level 1», «git and github, level 1», «javascript, level 3», «investing, level 5», «linguistics, level 1», «cosmology, level 2», «french, level 1», «physics, level 4», «econometrics, level 1», «english, level 8», «zoology, level 1», «folks' culture, level 1», «topology, level 3», «geography, level 1», «server administration, level 2», «banking, level 1», «chemistry, level 1», «world art, level 10», «c++, level 3», «literature, level 12», «computer graphics, level 1».
 
 После того, как товарищ тыкает на «photoshop, level 7», перед ним всплывает окошко: «Did you really mean to start with the level 7 of photoshop?». Тут же — горизонтальная полоса прокрутки, позволяющая выбрать другие level'ы того же курса. Несколько ниже — горизонтальная полоса прокрутки, позволяющая выбрать курсы других презентеров по этой же теме (по фотошопу).  
 
@@ -136,13 +141,11 @@ Khan Academy и только они — школьное образование.
 
 ## Часть 5. Как удерживать школьников?
 
-Что очевидно: "собери свой аватар" за energy points (даваемые за решение задачек), получай stackexchange-style бейджи-награды (их там довольно обильно и новичкам дают: http://mathoverflow.net/help/badges), задолбай школьников мейл-уведомлениями (у Khan Academy хорошо получается).
+Что очевидно: "собери свой аватар" за energy points (даваемые за решение задачек), получай stackexchange-style бейджи-награды (их там [довольно обильно и новичкам дают](http://mathoverflow.net/help/badges)), задолбай школьников мейл-уведомлениями (у Khan Academy хорошо получается).
 
 Что, в дополнение к этому, я предлагаю: предлагать школьникам друзей по внеучебным интересам. Жутко банальный пример: фанат "Игры престолов" должен иметь возможность написать фанату "Игры престолов". Люди должны находить на сайте близких людей. Только так, и это — Биг Мак.
 
 ## Часть 6. НКО или коммерческая компания?
-
-НКО, живущая, в первую очередь, на гранты, а, во вторую, на мелкодисперсный donate.
 
 На всех этапах, кроме начального — коммерческая компания. Монетизироваться можно в том числе незаметно и малозаметно (о том, как — разделы 3 и 7), а вот количество душевных сил, которые вложены в красоту и быстроту работы монетизируемых веб-сервисов, как правило, в разы больше.
 
